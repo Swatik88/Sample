@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7014" started-at="2017-11-17T05:11:53Z" finished-at="2017-11-17T05:12:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7014" started-at="2017-11-17T05:11:53Z" finished-at="2017-11-17T05:12:00Z">
+      <class name="com.Base">
+        <test-method status="PASS" signature="set()[pri:0, instance:com.Base@735f7ae5]" name="set" is-config="true" duration-ms="4349" started-at="2017-11-17T10:41:53Z" finished-at="2017-11-17T10:41:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method status="PASS" signature="sample6()[pri:0, instance:com.Base@735f7ae5]" name="sample6" duration-ms="2649" started-at="2017-11-17T10:41:57Z" finished-at="2017-11-17T10:42:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample6 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.Base@735f7ae5]" name="close" is-config="true" duration-ms="0" started-at="2017-11-17T10:42:00Z" finished-at="2017-11-17T10:42:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.Base -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
